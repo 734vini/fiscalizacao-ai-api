@@ -76,6 +76,14 @@ public class OccurrenceEvaluationController {
     }
 
     /**
+     * Health check na raiz — usado pelo Railway para verificar se a aplicação está viva.
+     */
+    @GetMapping("/")
+    public ResponseEntity<?> root() {
+        return ResponseEntity.ok(new HealthResponse("UP", LocalDateTime.now()));
+    }
+
+    /**
      * Health check simples.
      */
     @GetMapping("/health")
