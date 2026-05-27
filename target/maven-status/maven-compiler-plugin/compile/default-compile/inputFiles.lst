@@ -1,0 +1,10 @@
+/Users/victor/Documents/univali/semestre-5/engenharia-2/fiscalizacao-ai-api/src/main/java/com/fiscalizacao/ai/dto/OccurrenceDto.java
+/Users/victor/Documents/univali/semestre-5/engenharia-2/fiscalizacao-ai-api/src/main/java/com/fiscalizacao/ai/repository/OccurrenceEvaluationRepository.java
+/Users/victor/Documents/univali/semestre-5/engenharia-2/fiscalizacao-ai-api/src/main/java/com/fiscalizacao/ai/controller/OccurrenceEvaluationController.java
+/Users/victor/Documents/univali/semestre-5/engenharia-2/fiscalizacao-ai-api/src/main/java/com/fiscalizacao/ai/config/AppConfig.java
+/Users/victor/Documents/univali/semestre-5/engenharia-2/fiscalizacao-ai-api/src/main/java/com/fiscalizacao/ai/exception/GlobalExceptionHandler.java
+/Users/victor/Documents/univali/semestre-5/engenharia-2/fiscalizacao-ai-api/src/main/java/com/fiscalizacao/ai/service/AnthropicAiService.java
+/Users/victor/Documents/univali/semestre-5/engenharia-2/fiscalizacao-ai-api/src/main/java/com/fiscalizacao/ai/model/OccurrenceStatus.java
+/Users/victor/Documents/univali/semestre-5/engenharia-2/fiscalizacao-ai-api/src/main/java/com/fiscalizacao/ai/service/OccurrenceEvaluationService.java
+/Users/victor/Documents/univali/semestre-5/engenharia-2/fiscalizacao-ai-api/src/main/java/com/fiscalizacao/ai/model/OccurrenceEvaluation.java
+/Users/victor/Documents/univali/semestre-5/engenharia-2/fiscalizacao-ai-api/src/main/java/com/fiscalizacao/ai/FiscalizacaoAiApplication.java
